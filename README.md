@@ -1,4 +1,4 @@
-# Playing with Fire
+# Playing with 🔥
 
 This is a data science project analyzing the occurance and frequency of wildfire events on the island of Sardinia, Italy. It is based on the Climate Datastore [Modis](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-fire-burned-area?tab=overview) and [ERA5](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means?tab=overview) datasets to acquire fire and climatic data over a time period of 10 years (2010 to 2019).
 
