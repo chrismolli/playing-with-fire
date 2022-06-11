@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+
+  jupyter-env:
+    build: container
+    volumes:
+      - "./:/workspace"
+    ports:
+      - "8888:8888"

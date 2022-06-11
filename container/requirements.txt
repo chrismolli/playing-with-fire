@@ -1,0 +1,6 @@
+cdsapi
+rasterio
+fiona
+numpy
+pyyaml
+imageio
